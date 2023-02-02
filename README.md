@@ -5,7 +5,7 @@ With the proliferation of mobile devices, applications for social networking and
 This has an interactive and easy to understand interface which makes the user experience worthwhile.
 
 
-**Production Link** (https://gapshup-chat-app.herokuapp.com/)
+**Production Link** (https://gap-shup.onrender.com)
 
 **Designed By - Pankaj Kumar** 
 
