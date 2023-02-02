@@ -7,5 +7,5 @@ This has an interactive and easy to understand interface which makes the user ex
 
 **Production Link** (https://gapshup-chat-app.herokuapp.com/)
 
-**Designed By - Himanshu Pandey** 
+**Designed By - Pankaj Kumar** 
 
